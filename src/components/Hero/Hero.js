@@ -6,7 +6,7 @@ import { HeroVideo, HeroSection, HeroText, ButtonWrapper, HeroButton } from './H
 const Hero = () => {
 	return (
 		<HeroSection>
-			<HeroVideo src="./assets/hero.mp4" autoPlay muted />
+			<HeroVideo src="https://res.cloudinary.com/dqjh4gyod/video/upload/v1679859913/cloned-styled-component-projects/Hero_w9n1jq.mp4" autoPlay muted />
 			<Container>
 				<MainHeading>Your data is secure with us</MainHeading>
 				<HeroText>
